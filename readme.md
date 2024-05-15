@@ -8,8 +8,8 @@ Code for YouTube video series: [https://www.youtube.com/watch?v=o5PWIuDTgxg&list
 
 ## Installation
 
-1. Clone the repo `git clone https://github.com/itadgeei-cci/e-comm.git`
-1. `cd /e-comm` into it 
+1. Clone the repo `git clone https://github.com/itadgeei-cci/ojt-ekart.git`
+1. `cd /ojt-ekart` into it 
 1. `composer install` or `composer update`
 1. Rename or copy `.env.example` file to `.env`
 1. `php artisan key:generate`
